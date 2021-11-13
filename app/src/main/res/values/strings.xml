@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tetris</string>
+    <string name="level">level</string>
+    <string name="score">socre</string>
+    <string name="snake">snake</string>
+    <string name="tetris">Tetris</string>
+</resources>
